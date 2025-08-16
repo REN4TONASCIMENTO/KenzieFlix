@@ -94,6 +94,46 @@ img {
 }
 
 /* Ajustes para telas menores */
+
+
+@media (min-width: 576px) { 
+    .container {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .flex-container {
+        display: flex;
+        gap: 20px;
+    }
+
+    .coluna {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    
+    .container {
+        max-width: 960px;
+    }
+
+    body {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
 @media (max-width: 600px) {
     .titulo {
         padding: 24px 0;
@@ -109,12 +149,5 @@ img {
         width: 90%;
         font-size: 0.9rem;
         padding: 10px 0;
-    }
-}
-
-@media (max-width: 400px) {
-    .lista-perfis {
-        flex-direction: column;
-        align-items: center;
     }
 }
