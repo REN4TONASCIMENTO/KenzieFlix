@@ -32,8 +32,8 @@ Kenzieflix/
 │       └── plus.png
 ├── pages
     ├── index.html
-│   └── Readme.md
-
+│   
+└── Readme.md
 ```
 
 ## 💡 Como usar
