@@ -48,7 +48,7 @@ Kenzieflix/
 3. Ou você pode abrir uma demonstração [aqui](https://kenzieflix-fawn.vercel.app/)
 
 <p align="center">
-  <img src="./assets/img/kenzieflix.png" alt="Demonstração do projeto" width="700"/>
+  <img src="/assets/img/kenzieflix.png" alt="Demonstração do projeto" width="700"/>
 </p>
 
 ## 📱 Responsividade
