@@ -32,8 +32,8 @@ Kenzieflix/
 │       └── plus.png
 ├── pages
     ├── index.html
-│   └── Readme.md
-
+│   
+└── Readme.md
 ```
 
 ## 💡 Como usar
@@ -44,7 +44,7 @@ Kenzieflix/
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
-3. Ou você pode abrir uma demonstração aqui
+3. Ou você pode abrir uma demonstração [aqui] ()
 
 ## 📱 Responsividade
 
