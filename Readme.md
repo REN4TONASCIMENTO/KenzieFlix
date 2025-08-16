@@ -1,4 +1,4 @@
-# KenzieFlix
+# KenzieFlix <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
 Projeto de página inicial inspirada na Netflix, desenvolvido para fins de estudo de HTML e CSS, com foco em responsividade e boas práticas de layout.
 
@@ -13,8 +13,10 @@ O KenzieFlix é uma página de seleção de perfis, onde o usuário pode escolhe
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML
-- CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
 ## 📂 Estrutura de Pastas
 
@@ -30,8 +32,7 @@ Kenzieflix/
 │       ├── panda.png
 │       ├── robot.png
 │       └── plus.png
-├── pages
-    ├── index.html
+├── index.html
 │   
 └── Readme.md
 ```
@@ -44,7 +45,11 @@ Kenzieflix/
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
-3. Ou você pode abrir uma demonstração [aqui] ()
+3. Ou você pode abrir uma demonstração [aqui](https://kenzieflix-fawn.vercel.app/)
+
+<p align="center">
+  <img src="./assets/img/kenzieflix.png" alt="Demonstração do projeto" width="700"/>
+</p>
 
 ## 📱 Responsividade
 
@@ -56,4 +61,4 @@ Este projeto é apenas para fins educacionais.
 
 ---
 
-Desenvolvido por Renato Nascimento
+Desenvolvido por [Renato Nascimento](https://www.linkedin.com/in/-renatonascimento/)
