@@ -44,7 +44,7 @@ Kenzieflix/
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
-3. Ou você pode abrir uma demonstração [aqui] (https://kenzieflix-fawn.vercel.app/)
+3. Ou você pode abrir uma demonstração [aqui](https://kenzieflix-fawn.vercel.app/)
 
 ## 📱 Responsividade
 
