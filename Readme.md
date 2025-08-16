@@ -30,8 +30,7 @@ Kenzieflix/
 │       ├── panda.png
 │       ├── robot.png
 │       └── plus.png
-├── pages
-    ├── index.html
+├── index.html
 │   
 └── Readme.md
 ```
