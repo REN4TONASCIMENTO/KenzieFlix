@@ -55,4 +55,4 @@ Este projeto é apenas para fins educacionais.
 
 ---
 
-Desenvolvido por Renato Nascimento
+Desenvolvido por [Renato Nascimento](https://www.linkedin.com/in/-renatonascimento/)
